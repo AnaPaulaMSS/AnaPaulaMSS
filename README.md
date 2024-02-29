@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="500"  alt="coding-time" src="annygif.gif">
+    <img align="left" height="400"  alt="coding-time" src="annygif.gif">
     <h1 align="center">Tecnologias</h1>
     <img align="center" height="30" width="40" alt="html-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" height="30" width="40" alt="css3-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
